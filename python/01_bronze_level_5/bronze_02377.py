@@ -1,0 +1,12 @@
+# 언어 제한: FreeBASIC
+# Print Str(" _________")
+# Print Str(" \_     _/")
+# Print Str("   \   /")
+# Print Str("    | |")
+# Print Str("   /   \")
+# Print Str("  /     \")
+# Print Str(" |       |")
+# Print Str("/---------\")
+# Print Str("| \-/ \-/ |")
+# Print Str("\---------/")
+# Print Str(" \_______/")
